@@ -2,7 +2,7 @@
 
             :root {
                 --header-image: url('banner.gif');
-                --body-bg-image: url('siteBG.png');
+                --body-bg-image: url('https://github.com/repetitiverehost/repetitiverehost.github.io/blob/main/siteBG.png');
 
                 /* colors */
                 --content: #161d4d;
